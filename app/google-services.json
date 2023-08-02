@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810193585324",
+    "project_id": "book-app-f056b",
+    "storage_bucket": "book-app-f056b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810193585324:android:c9d6f2b66495f0e99f0b09",
+        "android_client_info": {
+          "package_name": "com.example.book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810193585324-53eo84r2g66qe0nvnaqu2mjfsftqbuel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_app",
+            "certificate_hash": "0f290a7319855d13ff6e8166d06768c9a1f02f56"
+          }
+        },
+        {
+          "client_id": "810193585324-o9k0tsijqqaaofvu838urqbulmqvib3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wRCb-s-IgWAG4Jl0TUQWCsNKukQdeFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810193585324-o9k0tsijqqaaofvu838urqbulmqvib3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
